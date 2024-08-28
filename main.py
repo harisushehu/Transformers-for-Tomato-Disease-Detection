@@ -19,7 +19,7 @@ from sklearn.metrics import accuracy_score
 # To run using command, e.g. with all commands
 
 CUDA_VISIBLE_DEVICES=0 python main.py \
-    --data-dir "../../PlantVillage" \
+    --data-dir "./data/PlantVillage" \
     --batch-size 32 \
     --num-epochs 10 \
     --model "vit_base_patch16_224" \
@@ -36,7 +36,7 @@ CUDA_VISIBLE_DEVICES=0 python main.py --model "vit_base_patch16_224" --num-epoch
 # Parse command-line arguments
 def parse_args():
     parser = argparse.ArgumentParser(description="Train a Vision Transformer model on PlantVillage dataset.")
-    parser.add_argument('--data-dir', type=str, default="../../data/DIKUMARI", help='Directory for the dataset')
+    parser.add_argument('--data-dir', type=str, default="./data/PlantVillage", help='Directory for the dataset')
     parser.add_argument('--batch-size', type=int, default=32, help='Batch size for training and validation')
     parser.add_argument('--num-epochs', type=int, default=10, help='Number of epochs for training')
     parser.add_argument('--model', type=str, choices=['vit_base_patch16_224', 'vit_small_patch16_224', 'imagenet'], default='vit_base_patch16_224', help='Model to use for training')
