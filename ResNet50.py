@@ -22,7 +22,7 @@ CUDA_VISIBLE_DEVICES=0 python ResNet50.py
 '''
 
 # Directory paths
-base_dir = "./data/PlantVillage"
+base_dir = "./data/DIKUMARI"
 
 # Data transforms
 transform = transforms.Compose([
