@@ -12,14 +12,14 @@ This repository contains the codebase used for our paper titled **"Transfer Lear
    To run the baseline model without the attention mechanism, execute:
 
 ```bash
-   python baseline.py
+   CUDA_VISIBLE_DEVICES=0 python baseline.py
   ```
 
 2. **Baseline Model with Attention Mechanism**  
    To run the baseline model with the attention mechanism, execute:
 
 ```bash
-   python transformer.py
+   CUDA_VISIBLE_DEVICES=0 python transformer.py
   ```
 
 ### State-of-the-Art Models
@@ -30,21 +30,21 @@ To obtain results using state-of-the-art models, run the following scripts:
   To run the EfficientNet model, execute:
 
   ```bash
-  python EfficientNetB2.py
+  CUDA_VISIBLE_DEVICES=0 python EfficientNetB2.py
   ```
 
 - **VGG19**
 To run the VGG19 model, execute:
 
 ```bash
-python VGG19.py
+CUDA_VISIBLE_DEVICES=0 python VGG19.py
 ```
 
 - **InceptionV3**
 To run the InceptionV3 model, execute:
 
 ```bash
-python InceptionV3.py
+CUDA_VISIBLE_DEVICES=0 python InceptionV3.py
 ```
 
 
@@ -52,7 +52,7 @@ python InceptionV3.py
 To run the ResNet50 model, execute:
 
 ```bash
-python ResNet50.py
+CUDA_VISIBLE_DEVICES=0 python ResNet50.py
 ```
 
 ### Proposed Method
@@ -61,7 +61,7 @@ python ResNet50.py
 To perform a sensitivity analysis and find the best hyperparameters that yield the highest accuracy, execute:
 
 ```bash
-python sensitivity.py
+CUDA_VISIBLE_DEVICES=0 python sensitivity.py
 ```
 
 ## Data Loading and Preprocessing
