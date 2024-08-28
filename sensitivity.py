@@ -20,7 +20,7 @@ epochs_list = [3, 5, 10]
 learning_rates = [1e-4, 1e-3, 1e-2]
 
 # Device configuration
-device = torch.device("cuda:2" if torch.cuda.is_available() else "cpu")
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # Set random seed for reproducibility
 random.seed(42)
