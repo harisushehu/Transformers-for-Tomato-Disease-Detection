@@ -138,7 +138,7 @@ def train_model(model, train_loader, val_loader, save_path='best_model.pth', num
 
 
 # Device configuration
-device = torch.device("cuda:2" if torch.cuda.is_available() else "cpu")
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
 if __name__ == '__main__':
