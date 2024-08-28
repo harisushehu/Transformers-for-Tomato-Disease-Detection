@@ -23,7 +23,7 @@ CUDA_VISIBLE_DEVICES=0 python VGG19.py
 '''
 
 # Directory paths
-base_dir = "../../data/DIKUMARI"
+base_dir = "./data/DIKUMARI"
 class_dirs = ["HEALTHY", "INFECTED"]
 
 # Data transforms
