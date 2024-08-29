@@ -24,7 +24,7 @@ This repository contains the codebase used for our paper titled **"Transfer Lear
 
 ### State-of-the-Art Models
 
-To obtain results using state-of-the-art models, run the following scripts:
+To obtain results using state-of-the-art models, you can run the respective scripts (`VGG19.py`, `ResNet50.py`, `InceptionV3.py`, or `EfficientNetB2.py`) for each model. Below is an example command for running the **EfficientNet** model. You can use similar commands for other models by replacing the script name.
 
 - **EfficientNet**  
   To run the EfficientNet model, execute:
@@ -32,28 +32,6 @@ To obtain results using state-of-the-art models, run the following scripts:
   ```bash
   CUDA_VISIBLE_DEVICES=0 python EfficientNetB2.py
   ```
-
-- **VGG19**
-To run the VGG19 model, execute:
-
-```bash
-CUDA_VISIBLE_DEVICES=0 python VGG19.py
-```
-
-- **InceptionV3**
-To run the InceptionV3 model, execute:
-
-```bash
-CUDA_VISIBLE_DEVICES=0 python InceptionV3.py
-```
-
-
-- **ResNet50**
-To run the ResNet50 model, execute:
-
-```bash
-CUDA_VISIBLE_DEVICES=0 python ResNet50.py
-```
 
 ### Proposed Method
 
