@@ -84,11 +84,11 @@ CUDA_VISIBLE_DEVICES=0 python main.py \
 If you use this code or dataset in your research, please cite our paper:
 
 ```bibitex
-@article{Shehu2024TomatoLeafDiseases,
+@article{Shehu2025TomatoLeafDiseases,
   title={Transfer Learning with Transformers for Early Detection of Tomato Leaf Diseases},
   author={Shehu, Harisu Abdullahi and Ackley, Aniebietabasi and Mark, Marvellous and Eteng, Ofem},
   journal={Under Review},
-  year={2024}
+  year={2025}
 }
 ```
 
