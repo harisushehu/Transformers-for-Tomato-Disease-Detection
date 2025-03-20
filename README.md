@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the codebase used for our paper titled **"Transfer Learning with Transformers for Early Detection of Tomato Leaf Diseases"**. This paper explores the application of transfer learning techniques using transformers and other state-of-the-art models for early detection of tomato leaf diseases. If you use our code or dataset in your research, please cite our paper (see BibTeX citation below).
+This repository contains the codebase used for our paper titled **"Early Detection of Tomato Leaf Diseases using Transformers and Transfer Learning"**. This paper explores the application of transfer learning techniques using transformers and other state-of-the-art models for early detection of tomato leaf diseases. If you use our code or dataset in your research, please cite our paper (see BibTeX citation below).
 
 ## Code Structure
 
