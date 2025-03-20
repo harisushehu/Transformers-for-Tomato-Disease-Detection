@@ -1,4 +1,4 @@
-# Transfer Learning with Transformers for Early Detection of Tomato Leaf Diseases
+# Early Detection of Tomato Leaf Diseases using Transformers and Transfer Learning 
 
 ## Overview
 
@@ -85,9 +85,9 @@ If you use this code or dataset in your research, please cite our paper:
 
 ```bibitex
 @article{Shehu2025TomatoLeafDiseases,
-  title={Transfer Learning with Transformers for Early Detection of Tomato Leaf Diseases},
+  title={Early Detection of Tomato Leaf Diseases using Transformers and Transfer Learning},
   author={Shehu, Harisu Abdullahi and Ackley, Aniebietabasi and Mark, Marvellous and Eteng, Ofem},
-  journal={Under Review},
+  journal={European Journal of Agronomy},
   year={2025}
 }
 ```
