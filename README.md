@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the codebase used for our paper titled **"Early Detection of Tomato Leaf Diseases using Transformers and Transfer Learning"**. This paper explores the application of transfer learning techniques using transformers and other state-of-the-art models for early detection of tomato leaf diseases. If you use our code or dataset in your research, please cite our paper (see BibTeX citation below).
+This repository contains the codebase used for our paper titled **["Early Detection of Tomato Leaf Diseases using Transformers and Transfer Learning"](https://www.sciencedirect.com/science/article/pii/S1161030125001212)**. This paper explores the application of transfer learning techniques using transformers and other state-of-the-art models for early detection of tomato leaf diseases. If you use our code or dataset in your research, please cite our paper (see BibTeX citation below).
 
 ## Code Structure
 
@@ -89,13 +89,10 @@ If you use this code or dataset in your research, please cite our paper:
   author={Shehu, Harisu Abdullahi and Ackley, Aniebietabasi and Mark, Marvellous and Eteng, Ebriba Ofem},
   journal={European Journal of Agronomy},
   year={2025},
-  doi={[10.1016/j.eja.2025.127625](https://www.sciencedirect.com/science/article/pii/S1161030125001212)}
+  doi={[10.1016/j.eja.2025.127625]}
 }
 ```
 
-[Paper Link](https://www.sciencedirect.com/science/article/pii/S1161030125001212)
 
 For any questions or inquiries, please contact:
 Harisu Shehu (harisushehu@ecs.vuw.ac.nz)
-
-
