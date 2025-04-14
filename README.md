@@ -83,28 +83,17 @@ CUDA_VISIBLE_DEVICES=0 python main.py \
 
 If you use this code or dataset in your research, please cite our paper:
 
-<pre>
 ```bibitex
 @article{Shehu2025TomatoLeafDiseases,
   title={Early Detection of Tomato Leaf Diseases using Transformers and Transfer Learning},
   author={Shehu, Harisu Abdullahi and Ackley, Aniebietabasi and Mark, Marvellous and Eteng, Ofem},
   journal={European Journal of Agronomy},
   year={2025},
-  doi={10.1016/j.eja.2025.127625},
-  url={https://doi.org/10.1016/j.eja.2025.127625}
+  doi={\href{https://doi.org/10.1016/j.eja.2025.127625}{10.1016/j.eja.2025.127625}}
 }
 ```
-<\pre>
 
 For any questions or inquiries, please contact:
 Harisu Shehu (harisushehu@ecs.vuw.ac.nz)
-
-
-
-
-
-
-
-
 
 
