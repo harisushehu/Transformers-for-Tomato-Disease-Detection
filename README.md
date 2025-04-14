@@ -88,7 +88,9 @@ If you use this code or dataset in your research, please cite our paper:
   title={Early Detection of Tomato Leaf Diseases using Transformers and Transfer Learning},
   author={Shehu, Harisu Abdullahi and Ackley, Aniebietabasi and Mark, Marvellous and Eteng, Ofem},
   journal={European Journal of Agronomy},
-  year={2025}
+  year={2025},
+  doi={10.1016/j.eja.2025.127625},
+  url={https://doi.org/10.1016/j.eja.2025.127625}
 }
 ```
 
