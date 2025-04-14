@@ -89,7 +89,7 @@ If you use this code or dataset in your research, please cite our paper:
   author={Shehu, Harisu Abdullahi and Ackley, Aniebietabasi and Mark, Marvellous and Eteng, Ebriba Ofem},
   journal={European Journal of Agronomy},
   year={2025},
-  doi={10.1016/j.eja.2025.127625}
+  doi={[10.1016/j.eja.2025.127625](https://www.sciencedirect.com/science/article/pii/S1161030125001212)}
 }
 ```
 
