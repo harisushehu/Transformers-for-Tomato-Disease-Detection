@@ -93,7 +93,7 @@ If you use this code or dataset in your research, please cite our paper:
 }
 ```
 
-`[Paper Link](https://www.sciencedirect.com/science/article/pii/S1161030125001212)`
+[Paper Link](https://www.sciencedirect.com/science/article/pii/S1161030125001212)
 
 For any questions or inquiries, please contact:
 Harisu Shehu (harisushehu@ecs.vuw.ac.nz)
