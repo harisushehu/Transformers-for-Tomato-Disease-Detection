@@ -86,10 +86,10 @@ If you use this code or dataset in your research, please cite our paper:
 ```bibitex
 @article{Shehu2025TomatoLeafDiseases,
   title={Early Detection of Tomato Leaf Diseases using Transformers and Transfer Learning},
-  author={Shehu, Harisu Abdullahi and Ackley, Aniebietabasi and Mark, Marvellous and Eteng, Ofem},
+  author={Shehu, Harisu Abdullahi and Ackley, Aniebietabasi and Mark, Marvellous and Eteng, Ebriba Ofem},
   journal={European Journal of Agronomy},
   year={2025},
-  doi={\href{https://doi.org/10.1016/j.eja.2025.127625}{10.1016/j.eja.2025.127625}}
+  doi={[10.1016/j.eja.2025.127625](https://doi.org/10.1016/j.eja.2025.127625)}
 }
 ```
 
